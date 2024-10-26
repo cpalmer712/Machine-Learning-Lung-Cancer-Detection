@@ -5,4 +5,8 @@ Authors - Binod Tandan, Carson Palmer, Sweta Gautam <br>
 
 Create branch using <br>
 ---git checkout -b "branch_name"
+
+Setting up environment in venv
+    pip install jupyter
+    install all essential libraries
 Test
