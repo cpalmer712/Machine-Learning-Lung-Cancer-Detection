@@ -9,4 +9,17 @@ Create branch using <br>
 Setting up environment in venv
     pip install jupyter
     install all essential libraries
-Test
+
+Steps Involved for model building <br>
+
+Data Collected from Kaggle
+Import in VS code by using Python Pandas library
+Performed EDA
+<br>
+Model Training<br>
+Hyperparameter Tuning with Grid Search<br>
+Cross-Validation<br>
+Cost Function (Cross-Entropy Loss)<br>
+Final Evaluation on Test Set<br>
+
+
